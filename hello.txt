@@ -1,4 +1,4 @@
-Hello buddy! I am here to practice for the SE Lb 02 work.
+Hello! This line was changed on the main branch.
 I am learning Git version control, GitHub, branching, merging, and conflict resolution.
 
 This line was added on the feature-update branch.
