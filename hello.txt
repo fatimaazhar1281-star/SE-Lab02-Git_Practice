@@ -3,3 +3,5 @@ I am learning Git version control, GitHub, branching, merging, and conflict reso
 
 This line was added on the feature-update branch.
 Testing staged changes
+
+This is the temporary change that I don't want to commit yet.
