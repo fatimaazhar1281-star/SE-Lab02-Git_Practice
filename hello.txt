@@ -2,3 +2,4 @@ Hello! This line demonstrates merge-conflict.
 I am learning Git version control, GitHub, branching, merging, and conflict resolution.
 
 This line was added on the feature-update branch.
+Testing staged changes
